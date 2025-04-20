@@ -66,8 +66,8 @@ If you use this project in your research, please cite:
 Pull requests are welcome! For major changes, open an issue first.
 
 ## 📧 Contact
-- **Email**: your-email@example.com
-- **Project Link**: https://github.com/yourusername/YOLO-Dental
+- **Email**: h.aghapanah@gmail.com
+- **Project Link**: [https://github.com/yourusername/YOLO-Dental](https://github.com/Hamed-Aghapanah/YOLO-Dental)
 ```
 
 ---
