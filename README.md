@@ -2,9 +2,6 @@
 ```markdown
 # YOLO-Dental: AI-Powered Impacted Molar Detection & Extraction Difficulty Prediction
 
-![GitHub](https://img.shields.io/badge/Python-3.9%2B-blue)
-![GitHub](https://img.shields.io/badge/Framework-PyTorch-orange)
-![GitHub](https://img.shields.io/badge/Model-YOLOv12s-green)
 
 > **Revolutionizing Preoperative Planning in Oral Surgery**  
 A state-of-the-art deep learning system for **automated detection and classification of mandibular third molar impaction** using panoramic radiographs (OPG). Built on the latest **YOLO 12s architecture**, this framework enables accurate, real-time prediction of extraction difficulty—supporting dentists, oral surgeons, and general practitioners in clinical decision-making.
