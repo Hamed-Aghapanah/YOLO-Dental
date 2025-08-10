@@ -56,11 +56,11 @@ All source code, curated dataset, trained models, and annotations are **publicly
 
 Your raw data should be organized as follows:
 
-```
-/raw_images/
-├── 001.png
-├── 002.png
-└── ...
+Path/
+├── raw_images/
+│   ├── 001.png/     
+│   ├── 002.png/      
+ 
 ```
 
 And a corresponding Excel file with metadata:
