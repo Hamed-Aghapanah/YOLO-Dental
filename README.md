@@ -1,19 +1,4 @@
-Yes, I can create a downloadable `README.md` file for you.
-
-Here is the **complete, professional, and up-to-date `README.md`** based on your research paper, code, and all previous requests. You can copy the text below and save it as `README.md`, or click the **Download** button below to get the file directly.
-
----
-
-### ✅ Download `README.md`
-
-[Download README.md](sandbox:/mnt/data/README.md)
-
-> 🔗 **Note**: The download link above will generate the file in this environment. After downloading, you can place it in your project root directory.
-
----
-
 ### 📄 File Content (For Reference)
-
 ```markdown
 # YOLO-Dental: AI-Powered Impacted Molar Detection & Extraction Difficulty Prediction
 
