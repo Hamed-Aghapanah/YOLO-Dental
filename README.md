@@ -39,16 +39,15 @@ Report exel file : https://drive.google.com/drive/folders/1xcySMM2KPxDQh8RcylXiA
 ✅ **All resources are publicly available** to ensure full reproducibility and accelerate future research in dental AI.
 
 
-  ## 🖥️ Training GUI Interface
+ 
+ ## 🖥️ Training GUI Interface
 
-The training process is managed through an intuitive graphical interface for easy monitoring and control:
-
-| ![Training GUI 1](https://raw.githubusercontent.com/Hamed-Aghapanah/YOLO-Dental/main/images/train1.PNG) | ![Training GUI 2](https://raw.githubusercontent.com/Hamed-Aghapanah/YOLO-Dental/main/images/train2.PNG) |
+| ![Training GUI 1](images/train1.PNG) | ![Training GUI 2](images/train2.PNG) |
 |:----------------------------------------------------------:|:----------------------------------------------------------:|
 | **Configuration Panel**                                     | **Training Dashboard**                                      |
-| ![Training GUI 3](https://raw.githubusercontent.com/Hamed-Aghapanah/YOLO-Dental/main/images/train3.PNG) | ![Training GUI 4](https://raw.githubusercontent.com/Hamed-Aghapanah/YOLO-Dental/main/images/train4.PNG) |
+| ![Training GUI 3](images/train3.PNG) | ![Training GUI 4](images/train4.PNG) |
 | **Real-time Metrics**                                       | **Results Visualization**                                   |
-
+ 
 🔗 **GitHub Repository**:  
 [https://github.com/Hamed-Aghapanah/YOLO-Dental](https://github.com/Hamed-Aghapanah/YOLO-Dental)
 
