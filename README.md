@@ -32,15 +32,17 @@ Report exel file : https://drive.google.com/drive/folders/1xcySMM2KPxDQh8RcylXiA
 
 ---
 
+ 
+
 ## 🌐 Data & Model Availability
 
 ✅ **All resources are publicly available** to ensure full reproducibility and accelerate future research in dental AI.
 
 
 GUI of training:
-| ![Result 27715](/output_mask_generator/result_27715.) | ![Result 51450](/output_mask_generator/result_51450.png) |
+| ![Result 27715](https://github.com/Hamed-Aghapanah/YOLO-Dental/blob/main/images/train1.PNG) | ![Result 51450]([/output_mask_generator/result_51450.png](https://github.com/Hamed-Aghapanah/YOLO-Dental/blob/main/images/train2.PNG)) |
 |----------------------------------------------------------|----------------------------------------------------------|
-| ![Result 51474](/output_mask_generator/result_51474.png) | ![Result 51480](/output_mask_generator/result_51480.png) |
+| ![Result 51474]( https://github.com/Hamed-Aghapanah/YOLO-Dental/blob/main/images/train3.PNG) | ![Result 51480]( https://github.com/Hamed-Aghapanah/YOLO-Dental/blob/main/images/train4.PNG) |
 
 
 🔗 **GitHub Repository**:  
