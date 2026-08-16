@@ -8,6 +8,11 @@ A state-of-the-art deep learning system for **automated detection and classifica
 
 All source code, curated dataset, trained models, and annotations are **publicly available** to ensure full reproducibility and accelerate research in dental AI.
 
+DATASET :  https://drive.google.com/drive/folders/1EauYDOV4GC-aa3SQRL0Gg1QV1oSmTbT6?usp=sharing
+YOLO weights : https://drive.google.com/drive/folders/1P7s27nRJ68Xl6GVyR0Wc7XkfT8re9lMw?usp=drive_link
+Report exel file : https://drive.google.com/drive/folders/1xcySMM2KPxDQh8RcylXiAs4zbW4s8DCe?usp=sharing
+
+
 🔗 **Project Repository**:  
 [https://github.com/Hamed-Aghapanah/YOLO-Dental](https://github.com/Hamed-Aghapanah/YOLO-Dental)
 
