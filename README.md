@@ -36,6 +36,13 @@ Report exel file : https://drive.google.com/drive/folders/1xcySMM2KPxDQh8RcylXiA
 
 ✅ **All resources are publicly available** to ensure full reproducibility and accelerate future research in dental AI.
 
+
+GUI of training:
+| ![Result 27715](/output_mask_generator/result_27715.) | ![Result 51450](/output_mask_generator/result_51450.png) |
+|----------------------------------------------------------|----------------------------------------------------------|
+| ![Result 51474](/output_mask_generator/result_51474.png) | ![Result 51480](/output_mask_generator/result_51480.png) |
+
+
 🔗 **GitHub Repository**:  
 [https://github.com/Hamed-Aghapanah/YOLO-Dental](https://github.com/Hamed-Aghapanah/YOLO-Dental)
 
@@ -121,7 +128,7 @@ df = pd.read_excel(EXCEL_FILE_PATH)
 code_to_class = {str(row['code']): row['class_label'] for _, row in df.iterrows() if not pd.isna(row['code'])}
 
 # Split images
-all_images = [f for f in os.listdir(RAW_IMAGES_DIR) if f.endswith(('.png', '.jpg', '.jpeg'))]
+all_images = [f for f in os.listdir(RAW_IMAGES_DIR) if f.endswith(('.', '.jpg', '.jpeg'))]
 valid_images = [img for img in all_images if os.path.splitext(img)[0] in code_to_class]
 
 train_val, test = train_test_split(valid_images, test_size=0.15, random_state=42)
@@ -138,7 +145,7 @@ def split_and_save_image(img_path, filename, label, set_name):
     base_name = os.path.splitext(filename)[0]
 
     # Save split images
-    cv2.imwrite(os.path.join(OUTPUT_DIR, "images", set_name, f"{base_name}_L.png"), left_img)
+    cv2.imwrite(os.path.join(OUTPUT_DIR, "images", set_name, f"{base_name}_L."), left_img)
     cv2.imwrite(os.path.join(OUTPUT_DIR, "images", set_name, f"{base_name}_R.png"), right_img)
 
     # Save YOLO labels (class x_center y_center width height)
